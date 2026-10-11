@@ -116,6 +116,33 @@ September 2022 – September 2026
 </div>
 
 ---
+---
+---
+
+## 💼 Professional Experience
+
+### **Frontend Developer — BKAV**
+📅 March 2025 – April 2026
+
+- Developed a **Dynamic Form Engine** for complaint and report modules, reducing form creation time by approximately **30%**.
+- Built reusable React UI components to improve consistency and reduce duplicated code.
+- Integrated and optimized **20+ REST APIs** and worked with WebSocket-based communication.
+- Fixed UI issues, resolved bugs, and improved existing frontend features.
+- Collaborated with team members in an **Agile/Scrum** development environment.
+
+**Technologies:**
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/REST%20API-0EA5E9?style=flat-square" alt="REST API" />
+  <img src="https://img.shields.io/badge/WebSocket-333333?style=flat-square" alt="WebSocket" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+
+---
 
 <div align="center">
 

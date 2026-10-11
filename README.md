@@ -92,23 +92,6 @@ Hi! I'm **Đoàn Vĩnh Hưng**, a Software Engineering student at **FPT Universi
 <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
 </p>
 
-
-## 🎓 Education
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/FPT%20University-Software%20Engineering-F36F21?style=for-the-badge" alt="FPT University" />
-
-### FPT University — Hanoi, Vietnam
-
-**Bachelor's Degree in Software Engineering**
-
-September 2022 – September 2026
-
-</div>
-
-
-
 ## 💼 Professional Experience
 
 ### **Frontend Developer — BKAV**
@@ -130,6 +113,25 @@ September 2022 – September 2026
 <img src="https://img.shields.io/badge/WebSocket-333333?style=flat-square" alt="WebSocket" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
+
+
+## 🎓 Education
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FPT%20University-Software%20Engineering-F36F21?style=for-the-badge" alt="FPT University" />
+
+### FPT University — Hanoi, Vietnam
+
+**Bachelor's Degree in Software Engineering**
+
+September 2022 – September 2026
+
+</div>
+
+
+
+
 
 
 ---

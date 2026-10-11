@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me
+  👨‍💻 About Me
 
 Hi! I'm **Đoàn Vĩnh Hưng**, a Software Engineering student at **FPT University**, with approximately one year of hands-on Frontend Development experience at BKAV.
 
@@ -24,7 +24,7 @@ Hi! I'm **Đoàn Vĩnh Hưng**, a Software Engineering student at **FPT Universi
 
 ---
 
-## 🤝 Contact Me
+  🤝 Contact Me
 
 <div align="center">
 
@@ -44,9 +44,9 @@ Hi! I'm **Đoàn Vĩnh Hưng**, a Software Engineering student at **FPT Universi
 
 ---
 
-## 🛠️ Tech Stack & Skills
+  🛠️ Tech Stack & Skills
 
-### 🔹 Backend & Frameworks
+ # 🔹 Backend & Frameworks
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -56,7 +56,7 @@ Hi! I'm **Đoàn Vĩnh Hưng**, a Software Engineering student at **FPT Universi
   <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge" alt="SignalR" />
 </p>
 
-### 🔹 Frontend
+ # 🔹 Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -70,14 +70,14 @@ Hi! I'm **Đoàn Vĩnh Hưng**, a Software Engineering student at **FPT Universi
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
 </p>
 
-### 🔹 Mobile
+ # 🔹 Mobile
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
-### 🔹 Knowledge & Others
+ # 🔹 Knowledge & Others
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -98,13 +98,13 @@ Hi! I'm **Đoàn Vĩnh Hưng**, a Software Engineering student at **FPT Universi
 
 ---
 
-## 🎓 Education
+  🎓 Education
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/FPT%20University-Software%20Engineering-F36F21?style=for-the-badge" alt="FPT University" />
 
-### FPT University — Hanoi, Vietnam
+ # FPT University — Hanoi, Vietnam
 
 **Bachelor's Degree in Software Engineering**
 
@@ -115,9 +115,9 @@ September 2022 – September 2026
 ---
 
 
-## 💼 Professional Experience
+  💼 Professional Experience
 
-### **Frontend Developer — BKAV**
+ # **Frontend Developer — BKAV**
 📅 March 2025 – April 2026
 
 - Developed a **Dynamic Form Engine** for complaint and report modules, reducing form creation time by approximately **30%**.

@@ -21,9 +21,6 @@ Hi! I'm **Đoàn Vĩnh Hưng**, a Software Engineering student at **FPT Universi
 - 🔐 Familiar with authentication, authorization, JWT, OAuth 2.0, and Role-Based Access Control (RBAC).
 - 💳 Experienced in integrating payment gateways and third-party APIs.
 - ⚡ Worked with real-time communication using Socket.IO and SignalR.
-- 🌱 Currently focusing on backend engineering, clean code, and maintainable application architecture.
-
-🎯 **Career Goal:** Become a capable Full-Stack Developer by building reliable, maintainable, and scalable web applications.
 
 ---
 
